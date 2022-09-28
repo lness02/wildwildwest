@@ -275,7 +275,7 @@ Disallow: /local/place/reviews/
 Disallow: /local/place/rap/
 Disallow: /local/tab/
 Disallow: /localservices/*
-# flag{reach_for_the_sky}
+# flag{r34ch_4_th3_sky}
 Allow: /finance
 Allow: /js/
 Disallow: /nonprofits/account/
